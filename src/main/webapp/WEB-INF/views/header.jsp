@@ -50,6 +50,9 @@
                                             <a href="#">Cypress Creek</a>
                                         </li>
                                         <li>
+                                            <a href="#">New Location</a>
+                                        </li>
+                                        <li>
                                             <a href="#">Secret Mountain</a>
                                         </li>
                                     </ul>
